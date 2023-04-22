@@ -1,4 +1,4 @@
-# Project Title: Dropout Prediction using National Longitudinal Study of Adolescent Health (Add Health) Dataset
+# Dropout Prediction using National Longitudinal Study of Adolescent Health (Add Health) Dataset
 
 # Description:
 The purpose of this project was to develop a machine learning model to predict which students are most at risk of dropping out of school using data from the National Longitudinal Study of Adolescent Health (Add Health). This is an important area of research as identifying students at risk of dropping out early can help education officials develop targeted interventions and prevent students from leaving school before completing their education.
